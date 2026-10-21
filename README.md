@@ -14,12 +14,12 @@ Os requisitos da proposta estão resumidos em [docs/00-proposta.md](docs/00-prop
 
 1. [Proposta da atividade](docs/00-proposta.md)
 2. [Definição do problema](docs/01-problema.md)
-3. [Ferramentas matemáticas](docs/02-ferramentas.md)
+3. [Funções matemáticas escolhidas](docs/02-funcoes-matematicas.md)
 
 ## Status
 
-- [ ] Definição do problema
-- [ ] Ferramentas matemáticas
+- [x] Definição do problema
+- [x] Funções matemáticas escolhidas
 - [ ] Modelagem matemática
 - [ ] Implementação em Python
 - [ ] Simulação e análise dos resultados
